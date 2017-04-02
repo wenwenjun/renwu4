@@ -1,0 +1,22 @@
+.middle{width:400px;
+		height:200px;
+		background:#ccc;
+		position:relative;
+		top:35%;
+		left:35%;
+}
+.top{width:50px;
+	height:50px;
+	border-radius:0 0 100% 0;
+	background:#fc0;
+	position:relative;
+	
+}
+.bottom{width:50px;
+		height:50px;
+		border-radius:100% 0 0 0;
+		background:#fc0;
+		position:relative;
+		left:350px;
+		top:100px;
+}
